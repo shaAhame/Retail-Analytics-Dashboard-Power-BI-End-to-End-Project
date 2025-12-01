@@ -137,13 +137,12 @@ The Power BI report comprises **three main pages**, each focused on different bu
 
 ---
 
-## 📬 Contact / Credits
 
-**Shakeeb Ahamed**
-**Ex. AI Developer Intern**
+📬 **Contact / Credits**  
+**Shakeeb Ahamed**  
+**Advanced Diploma in Data Science – NIBM, Sri Lanka**  
 **B.Sc(Hons) Financial Mathematics and Industrial Statistics - University of Ruhuna, Sri Lanka**
-**Advanced Diploma in Data Science – NIBM, Sri Lanka**
-**GitHub: [github.com/shaAhame](https://github.com/shaAhame)**
+**GitHub:** https://github.com/shaAhame 
 
 ---
 
