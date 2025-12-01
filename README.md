@@ -140,8 +140,8 @@ The Power BI report comprises **three main pages**, each focused on different bu
 
 📬 **Contact / Credits**  
 **Shakeeb Ahamed**  
-**Advanced Diploma in Data Science – NIBM, Sri Lanka**  
-**B.Sc (Hons) Financial Mathematics and Industrial Statistics – University of Ruhuna, Sri Lanka**  
+**B.Sc (Hons) Financial Mathematics and Industrial Statistics – University of Ruhuna, Sri Lanka** 
+**Advanced Diploma in Data Science – NIBM, Sri Lanka**   
 **GitHub:** https://github.com/shaAhame  
 
 ---
