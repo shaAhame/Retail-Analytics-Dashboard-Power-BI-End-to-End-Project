@@ -141,14 +141,14 @@ The Power BI report comprises **three main pages**, each focused on different bu
 📬 **Contact / Credits**  
 **Shakeeb Ahamed**  
 **Advanced Diploma in Data Science – NIBM, Sri Lanka**  
-**B.Sc(Hons) Financial Mathematics and Industrial Statistics - University of Ruhuna, Sri Lanka**
-**GitHub:** https://github.com/shaAhame 
+**B.Sc (Hons) Financial Mathematics and Industrial Statistics – University of Ruhuna, Sri Lanka**  
+**GitHub:** https://github.com/shaAhame  
 
 ---
 
-**If you like, I can also:**
+**If you like, I can also:**  
+✅ Add **badges** (PostgreSQL · Power BI · Retail Analytics)  
+✅ Add a **Table of Contents** at the top for better navigation  
+✅ Add a short **“Next Steps / Feature Roadmap”** section  
 
-**✅ Add **badges** (PostgreSQL · Power BI · Retail Analytics)**
-**✅ Add a **Table of Contents** at top for better navigation**
-**✅ Add a **short “Next Steps / Feature Roadmap”** section**
 
